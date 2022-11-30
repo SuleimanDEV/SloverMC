@@ -1,0 +1,10 @@
+settings:
+  seconds: 60
+  randommode: false
+messages:
+- '&fAchou alguem fazendo coisa errada denuncie usando &6/report (jogador) (motivo)&f.'
+- '&fNos siga no twitter &b&l@SloverMC_ &fpara ficar sabendo de &3&lNOVIDADES&f de tudo!'
+- '&fQuer se aplicar para &3&lSTAFF&f de nossa rede utilize o comando &e/aplicar&f.'
+- '&fQuer se aplicar para &b&lYOUTUBER&f veja os requisitos do servidor, utilize &b/youtuber&f.'
+- '&fAcesse logo nosso &2&lSITE&f para saber de novidades! &ehttps://slovermc.com'
+- '&fAdquira &a&lVIPS &fem nossa loja acesse: &6&lwww.store.slovermc.com'

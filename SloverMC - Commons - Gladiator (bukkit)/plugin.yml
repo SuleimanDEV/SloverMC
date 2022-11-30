@@ -1,0 +1,25 @@
+main: br.com.slovermc.gladiator.BukkitMain
+version: 1.0
+name: Gladiator
+commands:
+  cancel:
+  setspawn:
+  admin:
+  cc:
+  gm:
+  gamemode:
+  tell:
+  r:
+  tp:
+  holograma:
+  liga:
+  ligas:
+  addxp:
+  xp:
+  account:
+  removexp:
+  lobby:
+  ss:
+  screenshare:
+  chat:
+  tag:

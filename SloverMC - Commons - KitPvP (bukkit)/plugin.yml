@@ -1,0 +1,18 @@
+name: MatchMC_KitPvP
+version: 2.0
+main: br.com.slovermc.kitpvp.BukkitMain
+commands:
+  gm:
+  gamemode:
+  tell:
+  liga:
+  ligas:
+  account:
+  addxp:
+  removexp:
+  admin:
+  account:
+  chat:
+  xp:
+  ss:
+  

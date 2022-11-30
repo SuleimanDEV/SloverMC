@@ -1,0 +1,54 @@
+##Plugin desenvolvido por FishMooney##
+
+Prefix: '&6Slover&fMC'
+
+Ip: 1
+
+Spawn:
+ x: 3
+ y: 208
+ z: 1
+ 
+Coliseu: true
+ColiseuBlocks:
+- 33
+ 
+chancefeast: 21
+feast:
+- 310,1,1,true
+- 311,1,1,true
+- 312,1,1,true
+- 313,1,1,true
+- 276,1,1,true
+- 278,1,1,true
+- 327,1,1,true
+- 30,1,10,false
+- 368,3,13,true
+- 259,1,1,true
+- 320,1,20,true
+- 262,1,30,true
+- 364,1,20,true
+- 322,0,5,true
+- 297,1,20,false
+- 261,1,1,true
+- 46,1,20,true
+- 384,1,20,true
+- 373;16484,1,1,true
+- 373;16458,1,1,true
+
+chanceminifeast: 65
+
+minifeast:
+- 46,2,6,false
+- 261,1,1,false
+- 262,3,9,false
+- 265,3,7,true
+- 384,2,5,true
+- 266,4,9,true
+- 272,1,1,false
+- 327,1,1,false
+- 326,1,1,false
+- 351;3,3,15,false
+- 364,2,9,false
+- 373;16388,1,1,true
+- 373;16426,1,1,false

@@ -1,0 +1,22 @@
+name: MatchMC_Lobby
+version: 1.0
+main: br.com.slovermc.lobby.BukkitMain
+commands:
+  gm:
+  gamemode:
+  op:
+  score:
+  tell:
+  tp:
+  cc:
+  admin:
+  xp:
+  addxp:
+  removexp:
+  liga:
+  ligas:
+  ss:
+  screenshare:
+  chat:
+  account:
+  hologramainfos:

@@ -1,0 +1,11 @@
+name: GroupManager
+version: 1.0
+author: skyprogrammer
+main: br.com.slovermc.groupmanager.Main
+commands:
+  setgroup:
+  groupset:
+  miniliga:
+  evento:
+  minislover:
+  event:

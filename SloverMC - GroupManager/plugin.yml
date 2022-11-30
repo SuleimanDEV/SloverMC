@@ -1,0 +1,7 @@
+name: GroupManager
+version: 1.0
+author: skyprogrammer
+main: groupmanager.main.Main
+commands:
+  setgroup:
+  groupset:
