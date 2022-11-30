@@ -1,12 +1,12 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/SuleimanDEV/SloverMC"><img src="https://i.imgur.com/rh6QjWr.png" alt="SloverMC - PLUGINS"></a>
+  <a href="https://github.com/SuleimanDEV/HelixMC"><img src="https://i.imgur.com/rh6QjWr.png" alt="SloverMC - PLUGINS"></a>
   <br>
   SloverMC - OpenSource
   <br>
 </h1>
 
-<h4 align="center">Network: KitPvP - HG - GLADIATOR - LOBBY,LOGIN,ANTICHEAT - PROXY</h4>
+<h4 align="center">Network: PvP - HG - LOBBY,LOGIN,ANTICHEAT - PROXY</h4>
 
 <p align="center">
   <a href="https://www.patreon.com/Red_Devs">
@@ -24,14 +24,14 @@
 
 # Informações
 
-OPEN-SOURCE do projeto **SLOVERMC** dependências e arquivos adicionais incluso, qualquer dúvida de compilação e exportar procurar o video explicativo.
+OPEN-SOURCE do projeto **HELIXMC** dependências e arquivos adicionais incluso, qualquer dúvida de compilação e exportar procurar o video explicativo.
 
 **Informações**
 
 - Network:
 - Kitpvp, HG, Gladiator
 - Lobby,Login,AntiCheat, Proxy
-- Desenvolvedor BASE: **skyprogrammer**
+- Desenvolvedor BASE: **SmartBR**
 
 **Informações adicionais no meu CANAL!**
 
