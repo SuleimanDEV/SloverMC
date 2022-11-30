@@ -31,6 +31,7 @@ OPEN-SOURCE do projeto **SLOVERMC** dependências e arquivos adicionais incluso,
 - Network:
 - Kitpvp, HG, Gladiator
 - Lobby,Login,AntiCheat, Proxy
+- Desenvolvedor BASE: **skyprogrammer**
 
 **Informações adicionais no meu CANAL!**
 
