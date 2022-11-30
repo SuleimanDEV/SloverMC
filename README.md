@@ -24,14 +24,14 @@
 
 # Informações
 
-OPEN-SOURCE do projeto **HELIXMC** dependências e arquivos adicionais incluso, qualquer dúvida de compilação e exportar procurar o video explicativo.
+OPEN-SOURCE do projeto **SLOVERMC** dependências e arquivos adicionais incluso, qualquer dúvida de compilação e exportar procurar o video explicativo.
 
 **Informações**
 
 - Network:
 - Kitpvp, HG, Gladiator
 - Lobby,Login,AntiCheat, Proxy
-- Desenvolvedor BASE: **SmartBR**
+- Desenvolvedor BASE: **skyprogammer**
 
 **Informações adicionais no meu CANAL!**
 
