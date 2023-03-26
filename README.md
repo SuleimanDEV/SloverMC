@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/SuleimanDEV/HelixMC"><img src="https://i.imgur.com/rh6QjWr.png" alt="SloverMC - PLUGINS"></a>
   <br>
-  SloverMC - OpenSource.
+  SloverMC - OpenSource
   <br>
 </h1>
 
